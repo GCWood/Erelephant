@@ -68,4 +68,4 @@ async def info(user: discord.Member):
     await bot.say("``` Roles: {} \n First joined server at: {} \n Status: {} \n Currently Playing: {} \n Nickname: {} \n```".format(
         user.top_role, user.joined_at, user.status, user.game, user.nick))
 
-bot.run('MzYwMTk2OTcwNjk2MDE1ODcy.DKSEqA.9CbvdVeCg_rIfaZhBJmUJcydUCo')
+bot.run('Client Key')
